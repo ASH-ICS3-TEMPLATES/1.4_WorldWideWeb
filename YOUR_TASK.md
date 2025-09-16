@@ -10,8 +10,8 @@
     1. Research [the title tag](https://www.w3schools.com/html/html_head.asp) and add one to your page
     2. Make your title say "1.4 - The World Wide Web"
     3. Check that it worked by previewing your page in an _external browser_ as demonstrated in class
-
-3. Commit your code and synchronize it back to GitHub.
+3. Go to [W3Schools](www.w3schools.com) and add more elements such as background colour, font colour, images or anything else.
+4. Commit your code and synchronize it back to GitHub.
 
 <br>
 <hr>
